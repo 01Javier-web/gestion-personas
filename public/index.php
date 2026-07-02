@@ -15,5 +15,5 @@ $jugador1 = new jugador("Lionel", "Messi", "Argentina", "Inter de Miami");
 $jugador2 = new jugador("Cristiano", "Ronaldo", "Portugal", "Al Nassar");
 
 echo $jugador1->saludar();
-echo $jugador2->saludar();gi 
+echo $jugador2->saludar();
 
